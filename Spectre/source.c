@@ -144,6 +144,7 @@ int main(int argc, const char **argv) {
 		printf("\n");
 
 	}
+	system("PAUSE");
 	return (0);
 
 }
